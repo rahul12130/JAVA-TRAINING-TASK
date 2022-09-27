@@ -1,5 +1,5 @@
 1. Implementation of class Employee(first code.java)
-2.using if-else and continue statement(employeecontinueStatement.java)
+2 using if-else and continue statement(employeecontinueStatement.java)
 3.method of overriding and overloading(overiding.java)
 4.using addtype and switch case(addtype.java)
 5.Employee immutable class(Immutableclass.java)
