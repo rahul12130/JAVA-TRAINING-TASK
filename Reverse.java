@@ -1,4 +1,4 @@
-class Reverse {
+class ReverseString {
     public static void main(String[] args) {
      int i=0;
         String len = "Rahul Chavan";
