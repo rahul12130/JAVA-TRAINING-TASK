@@ -1,4 +1,4 @@
-class A{
+class Emp_controlstatement{
 	int id;
 	String name;
 
