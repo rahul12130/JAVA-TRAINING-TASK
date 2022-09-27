@@ -8,3 +8,6 @@
 8. basicregex class is to demonstrate Regularexpression.
 9. Userinputregex class is to demonstrate Regularexpression usin the user input conditon.
 10. Employeeregex class is to validate the employee details like email, employee id, phone number and address.
+11. Arithmeticexception class is to demonstrate the simple try and catch block and it is display the exception handled by the catch block.
+12.Exceptiontest class is to demonstrate the nested try-catch block and in this program finally vlock also used in the same program and to execute the percular satement and function.
+13. Agevalidexception class is to demonstrate user defined exception using throw keyword in the program.
