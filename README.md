@@ -1,10 +1,2 @@
-1. Implementation of class Employee(first code.java)
-2. using if-else and continue statement(employeecontinueStatement.java)
-3. method of overriding and overloading(overiding.java)
-4. using addtype and switch case(addtype.java)
-5. Employee immutable class(Immutableclass.java)
-6. Reverse String(Reverse.java)
-7. Testing substring(TestSubstring.java)
-8. basic regex(basicregex.java)
-9. user input regex(userinputregex.java)
-10. creating Employeeregex(Employeeregex.java)
+1. Emp_printingDetails class is to demonstrate initializing variables using constructor and printing the details of employee.
+2. 
