@@ -41,7 +41,7 @@ class Employee extends Person {
 
 }
 
-public class jp3 {
+public class Emp_overidingandoverloading {
   public static void main(String[] args) {
     Person p = new Person(646, "9686515970", "Rahul Chavan");
     Employee emp = new Employee(646, "9686515970", "Rahul Chavan", 45000);
