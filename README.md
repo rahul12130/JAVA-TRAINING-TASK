@@ -1,6 +1,6 @@
 1. Emp_printingDetails class is to demonstrate initializing variables using constructor and printing the details of employee.
-2. Emp_overidingandoverloading class is to demonstrate method overloading concept using inheritance.
-3. EmployeecontinueStatement class is to demonstrate continue statement using foreach loop.
+2. Emp_overidingandoverloading class is to demonstrate method overloading and method of overiding concept using inheritance.
+3. EmployeecontinueStatement class is to demonstrate continue statement using for each loop.
 4. Emp_controlstatement class is to demonstrate if-else decision making statements.
 5. TestSubstring class is to demonstrate extracting substring from a string (Extracting date of joining from the given string).
 6. Immutableclass is to demonstarte immutable class as well as immutable members of that class using final and private keywords.
