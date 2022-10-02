@@ -16,5 +16,7 @@
 16. RemoveoneLinkedList class is The remove() method of Java Collection Interface is used to remove a single instance of the specified element from this collection.
 17. RemoveallLinkedList class is to demonstrate the remove() method of java collection is used to remove all elements from the list.
 18. TestLink class is to demonstrate the LinkedHashSet is an ordered version of HashSet that maintains a doubly-linked List across all elements. When the iteration order is needed to be maintained this class is used.
+19. TestLink class is to demonstrate it allows the single value and duplicate value.
+20.  
 
 
