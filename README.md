@@ -13,3 +13,5 @@
 13. Agevalidexception class is to demonstrate user defined exception using throw keyword in the program.
 14. Collection class is to demonstrate creation of linked list and showing the traversing through the list to show tha data of the last node.
 15. LinkdeList class is to demonstrate user defined linked List class which add and create linked one to another and printing LinkedList.
+16.RemoveoneLinkedList class is The remove() method of Java Collection Interface is used to remove a single instance of the specified element from this collection.
+
