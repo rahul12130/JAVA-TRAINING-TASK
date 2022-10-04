@@ -21,6 +21,7 @@
 21. TestsetTree class is to demonstrate it sorting the set of elements.
 22. Hashmap class is to demonstrate the properties of Hashmap and it doesn't allow the duplicate entries and it doesn't follow the insertion order.
 23. MapEmployee class is which allows to store duplicate entries.
-24. 
+24. Empproperkey class is to demonstrate the hashmap class which ignore the duplicate values and overwrites the earlies entry with new entry.
+25. 
 
 
