@@ -22,6 +22,7 @@
 22. Hashmap class is to demonstrate the properties of Hashmap and it doesn't allow the duplicate entries and it doesn't follow the insertion order.
 23. MapEmployee class is which allows to store duplicate entries.
 24. Empproperkey class is to demonstrate the hashmap class which ignore the duplicate values and overwrites the earlies entry with new entry.
-25. 
+25. LinkedHashMap class is to demonstrate the properties of LinkedHashMap class it doesn't allow duplicate entries and it follows insertion order.
+26. Treemap class is to demonstrate the properties of the Treemap class it used to store the entries in sorted order.
 
 
