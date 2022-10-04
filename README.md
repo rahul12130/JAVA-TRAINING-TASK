@@ -19,5 +19,7 @@
 19. TestLink class is to demonstrate it allows the single value and duplicate value.
 20. TestSet class is to demonstrate it doesn't allows the duplicate values. 
 21. TestsetTree class is to demonstrate it sorting the set of elements.
+22. Hashmap class is to demonstrate the properties of Hashmap and it doesn't allow the duplicate entries and it doesn't follow the insertion order.
+23. 
 
 
