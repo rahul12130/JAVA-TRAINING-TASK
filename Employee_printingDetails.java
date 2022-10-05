@@ -2,7 +2,7 @@ class Person {
   int id;
   String name;
   String phone;
-  String salary;
+  
 
   Person(String phone, String name) {
     this.id=id;
@@ -28,7 +28,7 @@ class Employee extends Person {
   }
 }
 
-public class jp1 {
+public class Employee_printingDetails  {
   public static void main(String[] args) {
     Employee emp = new Employee(646, "Rahul Chavan", "9686515970");
     emp.printEmployeeDetails();
