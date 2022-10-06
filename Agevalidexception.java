@@ -1,6 +1,6 @@
 
-class Agevalidexceptionn extends Exception {
-    Agevalidexceptionn(String s) {
+class Agevalidexception extends Exception {
+    Agevalidexception(String s) {
         super(s);
     }
 
@@ -10,7 +10,7 @@ public class Agevalidexception {
     try {
         int age=20;
         if(age<18) {
-            throw new Agevalidexceptionn("your minor");
+            throw new Agevalidexception("your minor");
     }
         else {
             System.out.println("your major");
