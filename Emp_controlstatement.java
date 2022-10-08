@@ -2,7 +2,7 @@ class Emp_controlstatement{
 	int id;
 	String name;
 
-	public A(int i, String n){
+	public Emp_controlstatemen(int i, String n){
 
 		this.id = id;
 		this.name= n;
