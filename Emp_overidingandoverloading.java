@@ -10,7 +10,7 @@ class Person {
     this.phone= phone;
   }
   void show(String person1){
-    System.out.println("Employee brother name: "+person1);
+    System.out.println("Employee parent brother name: "+person1);
   }
 }
 
@@ -36,7 +36,7 @@ class Employee extends Person {
     System.out.println("Tax deducted :  "+ tax);
   }
   void show(String person2){
-    System.out.println("Employee brother name: "+person2);
+    System.out.println("Employee child brother name: "+person2);
   }
 
 }
@@ -52,7 +52,6 @@ public class Emp_overidingandoverloading {
     emp.printEmployeeDetails(5000);
 
     //method overriding
-    emp.show("Shankar");
     p.show("Rohit");
 
   }
