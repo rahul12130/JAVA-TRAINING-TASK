@@ -2,7 +2,7 @@ class Emp_controlstatement{
 	int id;
 	String name;
 
-	public Emp_controlstatemen(int i, String n){
+	public Emp_controlstatement(int i, String n){
 
 		this.id = id;
 		this.name= n;
@@ -34,7 +34,7 @@ void show() {
 class empdata {
 	
 		public static void main(String[] args) {
-			Emp_controlstatemen obj = new Emp_controlstatemen(1,"HR");
+			Emp_controlstatement obj = new Emp_controlstatement(1,"HR");
 			obj.Display();
 			obj.show();}}}
 		
