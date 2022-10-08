@@ -34,7 +34,7 @@ void show() {
 class empdata {
 	
 		public static void main(String[] args) {
-			Emp_controlstatemen obj = new A(1,"HR");
+			Emp_controlstatemen obj = new Emp_controlstatemen(1,"HR");
 			obj.Display();
 			obj.show();}}}
 		
