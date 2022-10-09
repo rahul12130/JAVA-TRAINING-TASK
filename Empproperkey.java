@@ -60,7 +60,7 @@ class Empproperkey {
         Employee emp6= new Employee(6, "Ronak");
         Employee emp7 = new Employee(7, "Karan");
         Employee emp8= new Employee(8, "Kartik");
-        Employee emp101 = new Employee(1, "Rahul");
+        Employee emp101 = new Employee(1, "Rahul1");
 
         map.put(emp1, 1);
         map.put(emp2, 2);
