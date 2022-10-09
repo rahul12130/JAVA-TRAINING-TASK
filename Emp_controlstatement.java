@@ -31,10 +31,13 @@ void show() {
 		}
 	
 }
+}
 class Emp_controlstatement {
 	
 		public static void main(String[] args) {
 			Emp_controlstatements obj = new Emp_controlstatements(1,"HR");
 			obj.Display();
-			obj.show();}}}
+			obj.show();
+		}
+}
 		
