@@ -1,6 +1,6 @@
 
 class Agevalidexceptionn extends Exception {
-    Agevalidexception(String s) {
+    Agevalidexceptionn(String s) {
         super(s);
     }
 
