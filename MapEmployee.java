@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 import java.util.*;
 
 class Employee1{
@@ -24,15 +24,18 @@ class MapEmployee {
         Employee1 obj5= new Employee1(5,"Prajwal");
         Employee1 obj6= new Employee1(6,"Dhiraj");
         Employee1 obj7= new Employee1(7,"Karan");
+        Employee1 obj1= new Employee1(8,"Rahul");
 
         Map<Employee1,Integer> map = new HashMap<>();
         map.put(obj1,1);
         map.put(obj2,3);
-        map.put(obj3,4);
+        map.put(obj3,8);
         map.put(obj4,5);
         map.put(obj5,2);
         map.put(obj6,7);
         map.put(obj7,6);
+        map.put(obj8,4);
+        
         System.out.println(map);
     }
 
