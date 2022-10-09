@@ -35,8 +35,8 @@ class Employee extends Person {
     System.out.println("Employee salary :  "+ (emp_salary-tax));
     System.out.println("Tax deducted :  "+ tax);
   }
-  void show(String person2){
-    System.out.println("Employee child brother name: "+person2);
+  void show(String person1){
+    System.out.println("Employee child brother name: "+person1);
   }
 
 }
@@ -52,7 +52,7 @@ public class Emp_overidingandoverloading {
     emp.printEmployeeDetails(5000);
 
     //method overriding
-    p.show("Rohit");
+    emp.show("Rohit");
 
   }
 }
