@@ -24,5 +24,6 @@
 24. Empproperkey class is to demonstrate the hashmap class which ignore the duplicate values and overwrites the earlies entry with new entry.
 25. LinkedHashMap class is to demonstrate the properties of LinkedHashMap class it doesn't allow duplicate entries and it follows insertion order.
 26. Treemap class is to demonstrate the properties of the Treemap class it used to store the entries in sorted order.
+27. ExtendingThread class is to demonstrate the Thread by extending the Thread Class and using the getName method to get the thread name.
 
 
