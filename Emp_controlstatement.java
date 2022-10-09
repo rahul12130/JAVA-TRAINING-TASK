@@ -1,8 +1,8 @@
-class Emp_controlstatement{
+class Emp_controlstatements{
 	int id;
 	String name;
 
-	public Emp_controlstatement(int i, String n){
+	public Emp_controlstatements(int i, String n){
 
 		this.id = id;
 		this.name= n;
@@ -31,10 +31,10 @@ void show() {
 		}
 	
 }
-class empdata {
+class Emp_controlstatement {
 	
 		public static void main(String[] args) {
-			Emp_controlstatement obj = new Emp_controlstatement(1,"HR");
+			Emp_controlstatements obj = new Emp_controlstatements(1,"HR");
 			obj.Display();
 			obj.show();}}}
 		
