@@ -24,7 +24,7 @@ class MapEmployee {
         Employee1 obj5= new Employee1(5,"Prajwal");
         Employee1 obj6= new Employee1(6,"Dhiraj");
         Employee1 obj7= new Employee1(7,"Karan");
-        Employee1 obj1= new Employee1(8,"Rahul");
+        Employee1 obj8= new Employee1(8,"Rahul");
 
         Map<Employee1,Integer> map = new HashMap<>();
         map.put(obj1,1);
