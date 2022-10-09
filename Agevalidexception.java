@@ -10,7 +10,7 @@ public class Agevalidexception {
     try {
         int age=20;
         if(age<18) {
-            throw new Agevalidexception("your minor");
+            throw new Agevalidexceptionn("your minor");
     }
         else {
             System.out.println("your major");
