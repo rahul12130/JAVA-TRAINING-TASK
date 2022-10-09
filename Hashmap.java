@@ -11,8 +11,10 @@ class Hashmap {
         map.put(9, "nine");
         map.put(10, "ten");
         map.put(6, "six");
-        //System.out.println(map);
-        //System.out.println(map.get(9));
+        System.out.println(map);
+        System.out.println(map.get(7));
+        
+        
         for(Map.Entry<Integer,String> m:map.entrySet()){
             //System.out.println(m.getKey()+" "+m.getValue());
             String value=m.getValue();
