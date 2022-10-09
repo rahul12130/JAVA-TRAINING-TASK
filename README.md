@@ -26,5 +26,6 @@
 26. Treemap class is to demonstrate the properties of the Treemap class it used to store the entries in sorted order.
 27. ExtendingThread class is to demonstrate the Thread by extending the Thread Class and using the getName method to get the thread name.
 28. ThreadDemocode class is to demonstrtae the join method by extending the Thread Class.
+29. Implementthread class is to demonstrate the creation of an Thread by Implementing the Runnable Interface and using the getName method to get the thread name.
 
 
