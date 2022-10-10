@@ -29,5 +29,7 @@
 29. Implementthread class is to demonstrate the creation of an Thread by Implementing the Runnable Interface and using the getName method to get the thread name.
 30. Runnablethreadimplement class is to demonstrate the join method by Implementing the Runnable interface.
 31. IncDeccount class is to demostrate the working of an two threads by incrementing and decrementing the count variable.
+32. Tentaskwithtenthread class is create the 10 threads using the for loop condition.
+33. Hundredtaskwithten class is create the 100 threads using the for loop condition.
 
 
