@@ -36,6 +36,7 @@
 36. WithoutSynchronized class when using withoutsynchronous programming we can execute multiple tasks at the same time.
 37. WithSynchronized class is to demonstrate synchronization of multiple thread using synchronized keyword.
 38. Synchronizedblock class is demonstrate the synchronized block.
+39. oddeven class is demonstrate the thread using notifyAll() methods with wait() methods are used for communication between the threads. A thread that goes into waiting for state by calling the wait() method will be in waiting for the state until any other thread calls either notify() or notifyAll() method on the same object.
 
 
 
